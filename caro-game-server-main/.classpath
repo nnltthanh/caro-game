@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/mssql-jdbc-9.2.1.jre15.jar" sourcepath="lib/mssql-jdbc-9.2.1.jre15.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.13.jar" sourcepath="lib/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="src" path="/caro-game-client-main"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
